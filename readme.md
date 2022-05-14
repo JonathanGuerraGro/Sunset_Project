@@ -3,5 +3,5 @@ Maqueta para proyecto ocean
 
 - html
 - css
-- bootrap ``5.02``
+- bootstrap ``5.02``
 
