@@ -7,4 +7,4 @@ Web app para concientizar sobre la limpieza de las playas y cuidado de especies 
 # UI
 
 # Modelo de Negocio:
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+![Image text](https://github.com/JonathanGuerraGro/Sunset_Project/blob/main/img/modelonegocio.jpg)
