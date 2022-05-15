@@ -1,0 +1,114 @@
+.barrasuperior{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 80px;
+    width: 1343.1px;
+    background-color: brown;
+}
+.logo{
+    z-index: 1;
+    position: absolute;
+    top: 0px;
+    left: 80px;
+}
+.home{
+    z-index: 2;
+    font-size: 25px;
+    font-family: 'Montserrat';
+    position: absolute;
+    top: 0px;
+    left: 800px;
+    color: white;
+    
+}
+.hacer{
+    z-index: 3;
+    font-size: 25px;
+    font-family: 'Montserrat';
+    position: absolute;
+    top: 0px;
+    left: 900px;
+    color: white;
+}
+.contacto{
+    z-index: 3;
+    font-size: 25px;
+    font-family: 'Montserrat';
+    position: absolute;
+    top: 0px;
+    left: 1130px;
+    color: white;
+}
+.tituloubi{
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    position: absolute;
+    top: 100px;
+    left: 525px;
+}
+.cuadromaza{
+    position: absolute;
+    top: 200px;
+    left: 20px;
+    height: 450px;
+    width: 600px;
+    border-style:groove ;
+    border-color: black;
+    box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 5%;
+}
+.textomaza{
+    position: absolute;
+    top: 50px;
+    height: 200px;
+    width: 200px;
+    font-size: 20px;
+    font-family: 'Montserrat'
+}
+.mazatlan{
+    font-size: 40px;
+    font-weight: 800;
+    white-space: nowrap;
+    position: absolute;
+    top: -20px;
+    font-family: 'Montserrat'
+}
+.imgmaza{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+.cuadrovallarta{
+    position: absolute;
+    top: 200px;
+    left: 720px;
+    height: 450px;
+    width: 600px;
+    border-style:groove ;
+    border-color: black;
+    box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 5%;
+}
+.textovallarta{
+    position: absolute;
+    top: 50px;
+    height: 200px;
+    width: 200px;
+    font-size: 20px;
+    font-family: 'Montserrat'
+}
+.vallarta{
+    font-size: 40px;
+    font-weight: 800;
+    white-space: nowrap;
+    position: absolute;
+    top: -20px;
+    font-family: 'Montserrat'
+}
+.imgvallarta{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
