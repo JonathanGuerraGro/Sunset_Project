@@ -3,7 +3,13 @@ body{
 }
 
 .baner{
-    min-height: 500px;  
+     height: 500px;
+    background-image: url( '/img/fondo.svg' ); */
+     -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
 }
 
 .parallax1{
@@ -22,4 +28,9 @@ body{
 
 .footer .fa-brands{
     color: #7FB2F0;
+}
+
+.about{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
