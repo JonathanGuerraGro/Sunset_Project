@@ -82,3 +82,16 @@ p{
     font-weight: bold;
     color: white;
 }
+.card{
+    width: 29rem;
+}
+.video{
+   width:560px;
+   height:315px;
+}
+@media (max-width: 576px) { 
+     .video{
+        width:450px;
+        height:315px;
+     }
+ }
