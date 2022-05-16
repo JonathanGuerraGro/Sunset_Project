@@ -2,7 +2,8 @@
 Proyecto para Hack The Ocean en el que se resolvera la problematica de basura en las playas.
 
 # Solución
-Web app para concientizar sobre la limpieza de las playas y cuidado de especies marinas donde cualquiera puede colaborar a cambio de alguna bonificación.
+Una web app para tomar accion sobre la limpieza de las playas y cuidado de especies marinas, donde cualquiera puede colaborar.
+Funciona mediante un sistema de bonificaciones y recompensas en la cual estarán involucrados las empresas locales de cada playa según en donde te encuentres.
 
 # Aqui puedes ver el avance del despliegue del proyecto: 
 https://jonathanguerragro.github.io/Sunset_Project/
