@@ -33,6 +33,7 @@ https://app.uizard.io/p/6608f21e
 - node ``16.14.0``
 - Prisma:``3.14.0``
 - eslint:``8.15.0``
+#### Link al repositorio donde se encuentra el Backend: https://github.com/ChristianDeM/DBSunset
 
 
 
