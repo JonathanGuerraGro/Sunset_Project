@@ -13,7 +13,7 @@ Creación de Wireframe con navegación para el desarrollo de la web:
 https://app.uizard.io/p/6608f21e
 
 # Modelo de Negocio:
-![Image text](https://github.com/JonathanGuerraGro/Sunset_Project/blob/main/img/modelonegocio.jpg)
+![Image text](https://github.com/JonathanGuerraGro/Sunset_Project/blob/main/img/modelo2.jpg)
 
 ##  Tencologias usadas en el proyecto 
 
